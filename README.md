@@ -1,4 +1,4 @@
-# Desafio de código: Classificador de Nível de Herói
+# Desafio de código: Calculadora de Partidas Rankeadas
 
 Este é o segundo desafio de código faz parte do curso "Potência Tech iFood - Programação do Zero" patrocinado pela empresa iFood em parceria com a Digital Innovation One (DIO), 
 e teve como professor o Felipão, que tem uma didática fantástica, diga-se de passagem. Veja abaixo as instruções que nos foram dadas para a entrega deste desafio:
