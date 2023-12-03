@@ -1,4 +1,10 @@
-Entendendo o Desafio
+# Desafio de código: Classificador de Nível de Herói
+
+Este é o segundo desafio de código faz parte do curso "Potência Tech iFood - Programação do Zero" patrocinado pela empresa iFood em parceria com a Digital Innovation One (DIO), 
+e teve como professor o Felipão, que tem uma didática fantástica, diga-se de passagem. Veja abaixo as instruções que nos foram dadas para a entrega deste desafio:
+
+
+**Entendendo o Desafio**
  
 Agora é a sua hora de brilhar e construir um perfil de destaque na DIO! Explore todos os conceitos explorados até aqui e replique (ou melhore, porque não?) este projeto prático. Para isso, crie seu próprio repositório e aumente ainda mais seu portfólio de projetos no GitHub, o qual pode fazer toda diferença em suas entrevistas técnicas 😎
  

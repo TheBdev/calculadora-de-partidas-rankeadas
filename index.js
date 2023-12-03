@@ -1,6 +1,6 @@
 
 //Calculadora de Partidas Rankeadas
-//Usar variáveis, operadores, pode usar laços de repetição, estruturas de decisões, mas usar principalmente funçoes.
+//Usar variáveis, operadores. Pode usar laços de repetição, estruturas de decisões, mas usar principalmente uma função.
 let saldoDeVitorias = qtdVitoriasDerrotas(100,9)
 
 function qtdVitoriasDerrotas (vitorias, derrotas){
